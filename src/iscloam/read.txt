@@ -1,0 +1,1 @@
+当出现版本不兼容的时候去ceres中的cmakelist中改eigen版本即可。
